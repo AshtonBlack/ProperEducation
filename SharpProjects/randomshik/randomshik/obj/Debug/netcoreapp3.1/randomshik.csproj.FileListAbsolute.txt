@@ -1,0 +1,11 @@
+C:\For rus\randomshik\randomshik\bin\Debug\netcoreapp3.1\randomshik.exe
+C:\For rus\randomshik\randomshik\bin\Debug\netcoreapp3.1\randomshik.deps.json
+C:\For rus\randomshik\randomshik\bin\Debug\netcoreapp3.1\randomshik.runtimeconfig.json
+C:\For rus\randomshik\randomshik\bin\Debug\netcoreapp3.1\randomshik.runtimeconfig.dev.json
+C:\For rus\randomshik\randomshik\bin\Debug\netcoreapp3.1\randomshik.dll
+C:\For rus\randomshik\randomshik\bin\Debug\netcoreapp3.1\randomshik.pdb
+C:\For rus\randomshik\randomshik\obj\Debug\netcoreapp3.1\randomshik.csprojAssemblyReference.cache
+C:\For rus\randomshik\randomshik\obj\Debug\netcoreapp3.1\randomshik.AssemblyInfoInputs.cache
+C:\For rus\randomshik\randomshik\obj\Debug\netcoreapp3.1\randomshik.AssemblyInfo.cs
+C:\For rus\randomshik\randomshik\obj\Debug\netcoreapp3.1\randomshik.dll
+C:\For rus\randomshik\randomshik\obj\Debug\netcoreapp3.1\randomshik.pdb
