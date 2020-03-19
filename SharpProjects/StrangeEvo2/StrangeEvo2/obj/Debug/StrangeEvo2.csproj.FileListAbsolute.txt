@@ -1,0 +1,9 @@
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\bin\Debug\StrangeEvo2.exe.config
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\bin\Debug\StrangeEvo2.exe
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\bin\Debug\StrangeEvo2.pdb
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\obj\Debug\StrangeEvo2.csprojAssemblyReference.cache
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\obj\Debug\StrangeEvo2.Form1.resources
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\obj\Debug\StrangeEvo2.Properties.Resources.resources
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\obj\Debug\StrangeEvo2.csproj.GenerateResource.cache
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\obj\Debug\StrangeEvo2.exe
+D:\ProperEducation\SharpProjects\StrangeEvo2\StrangeEvo2\obj\Debug\StrangeEvo2.pdb
