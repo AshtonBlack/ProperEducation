@@ -1,0 +1,11 @@
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\obj\Debug\netcoreapp3.1\HomeWork.3.3(server).csprojAssemblyReference.cache
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\obj\Debug\netcoreapp3.1\HomeWork.3.3(server).AssemblyInfoInputs.cache
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\obj\Debug\netcoreapp3.1\HomeWork.3.3(server).AssemblyInfo.cs
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\bin\Debug\netcoreapp3.1\HomeWork.3.3(server).exe
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\bin\Debug\netcoreapp3.1\HomeWork.3.3(server).deps.json
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\bin\Debug\netcoreapp3.1\HomeWork.3.3(server).runtimeconfig.json
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\bin\Debug\netcoreapp3.1\HomeWork.3.3(server).runtimeconfig.dev.json
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\bin\Debug\netcoreapp3.1\HomeWork.3.3(server).dll
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\bin\Debug\netcoreapp3.1\HomeWork.3.3(server).pdb
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\obj\Debug\netcoreapp3.1\HomeWork.3.3(server).dll
+D:\homework\HomeWork.3.3(server)\HomeWork.3.3(server)\obj\Debug\netcoreapp3.1\HomeWork.3.3(server).pdb

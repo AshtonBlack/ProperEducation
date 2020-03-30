@@ -1,0 +1,35 @@
+using System;
+using System.Diagnostics;
+using System.Net.Sockets;
+using System.Text;
+
+namespace HomeWork3._3
+{
+    class Program
+    {
+        static Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+        static void Main(string[] args)
+        {
+            try
+            {
+                socket.Connect("127.0.0.1", 50000);
+            }
+            catch
+            {
+                Console.WriteLine("Невозможно подключиться");
+                Console.ReadKey();
+                Process.GetCurrentProcess().Kill();
+            }
+            Console.WriteLine("Что скажешь?");
+            while (true)
+            {
+                string message = Console.ReadLine();
+                byte[] buffer = Encoding.UTF8.GetBytes(message);
+                socket.Send(buffer);
+                socket.Receive(buffer);
+                message = Encoding.UTF8.GetString(buffer);
+                Console.WriteLine(message);
+            }            
+        }
+    }
+}
